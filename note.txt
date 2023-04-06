@@ -1,0 +1,2 @@
+the page is fully encoded in php for easy work 
+all the page are connected through _get - _post 
